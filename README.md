@@ -2,7 +2,7 @@
 
 Welcome to the **Simon Says Game**, a memory-based color sequence game built using **HTML**, **CSS**, and **JavaScript**. This is a fun and interactive project where the user has to memorize and repeat a sequence of button flashes.
 
-🔗 **Live Demo**: _Add your GitHub Pages link here after deployment_
+🔗 **Live Demo**: (https://tabishkh07.github.io/Simon-Says-Game/)
 
 ---
 
